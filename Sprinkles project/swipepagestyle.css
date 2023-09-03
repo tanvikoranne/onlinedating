@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url('background.jpeg');
+    background-size: 100% 210%;
+    font-family: cursive;
+}
+
+.container{
+    width: 33%;
+    height: 300px;
+    float:left;
+}
+
+#lbtn{
+    padding: 15px;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    height: 5vh;
+    width: 15vb;
+    display: inline-block;
+}
+
+#img{
+    height: 50vh;
+    width: 30vb;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    display: inline-block;
+}
+
+#rbtn{
+    padding: 15px;
+    position: absolute;
+    top: 50%;
+    right: 70%;
+    height: 5vh;
+    width: 15vb;
+    display: inline-block;
+}
+
+#txt{
+    position:absolute;
+    top: 570px;
+    left: 660px;
+    display: block;
+    height: 15vh;
+    width: 30vb;
+    margin: auto;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(190, 215, 229);
+
+}
+
+#imagep{
+    height: 500px;
+    width: 500px;
+}

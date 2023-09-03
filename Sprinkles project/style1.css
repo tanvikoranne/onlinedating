@@ -1,0 +1,76 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    background-size: cover;
+}
+.forms{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(143, 42, 67);
+    font-style: oblique;
+}
+input.fname {
+    width: 100px;
+    height: 100px;
+}
+.min{
+    position: relative;
+    left: 300px;
+}
+.btn{
+    height:50px;
+    width:100px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: aquamarine;
+}
+#fname{
+    height:30px;
+    width:200px;
+}
+#lname{
+    height:30px;
+    width:200px;
+}
+#male{
+
+height:30px;
+width:200px;}
+#female{
+    height:30px;
+    width:200px;
+
+}
+#Name{
+    height:30px;
+    width:200px;
+
+}
+#email{
+    height:30px;
+    width:200px;
+
+}
+#birthday{
+    height:30px;
+    width:200px;
+
+}
+#Age{
+    height:30px;
+    width:200px;
+
+}
+#Bollywood{
+
+    height:30px;
+    width:200px;
+}
+#Hollywood{
+    height:30px;
+    width:200px;
+
+}
+h1{
+    color: darkcyan;
+    font-size: 85px;
+}
